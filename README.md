@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -90,6 +91,7 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+```
 
  ## OUTPUT:
  ![Alt text](<Screenshot 2023-11-07 091114.png>)
